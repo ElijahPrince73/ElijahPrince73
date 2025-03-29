@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-End Engineer | React Specialist
 -------------------------------------
 
-With over 7 years of experience, I have consistently delivered high-quality front-end applications using React.js, TypeScript, and modern web technologies. I've worked across industries including fintech, real estate, gaming, insurance, and e-commerce, always focusing on enhancing user experience and interface performance. 
+With over 10 years of experience, I have consistently delivered high-quality front-end applications using React.js, TypeScript, and modern web technologies. I've worked across industries including fintech, real estate, gaming, insurance, and e-commerce, always focusing on enhancing user experience and interface performance. 
 
 ### Key Accomplishments: 
 **Enterprise-Level React Applications:** Designed and deployed React micro frontends for large-scale systems at Edward Jones and American Homes 4 Rent, transitioning legacy applications into scalable, modern platforms. 
