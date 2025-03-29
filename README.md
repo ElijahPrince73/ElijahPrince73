@@ -17,7 +17,7 @@ With over 7 years of experience, I have consistently delivered high-quality fron
 **Insurance & Fintech Development (CHSI Technologies):** Built B2B React platforms, migrated legacy .NET apps to modern stacks, created shared internal NPM libraries, and introduced scalable design systems with React Storybook. E-Commerce Dashboard (MobileSoft): Developed full-stack features using React, Node.js, and GraphQL, improving admin usability and performance. 
 
 ###   🌍  I'm based in Las Vegas
-###   ✉️  You can contact me at [elijahprince73@gmail.com](mailto:elijahprince73@gmail.com)
+###   ✉️  You can contact me at [elijahprince73@gmail.com](mailto:elijahprince73@gmail.com) Or LinkedIn is Preferred .
 ###   🧠  I'm learning Node and Java
 ###   ⚡  Love bodybuilding and jiu Jitsu
 
